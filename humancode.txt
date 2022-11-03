@@ -1,43 +1,25 @@
 COMPRARE QUALCOSA SU AMAZON
 
-
-
 - Faccio una lista di possibili regali per Silvia
 (Lampada, Penna Stilografica, Libro)
-- Decido il budget 
-- Accedo al sito Amazon 
-
-    - SE non sono registrato 
+- Decido il budget
+- Accedo al sito Amazon
+    - SE non sono registrato
         - ALLORA creo l'account
     - ALTRIMENTI faccio il login
-
     - SE ho il Prime
         - ALLORA vado sulla barra di ricerca e cerco il primo regalo
     - ALTRIMENTI faccio l'abbonamento al Prime
-
-- FINCHÉ il carrello non ha 1 elemento 
-
-    - Vado sulla barra di ricerca e scrivo "lampada"
-
-        - SE non ha la consegna Prime O sfora il budget 
+    - Vado sulla barra di ricerca e cerco gli oggetti della lista
+        - SE non ha la consegna Prime O sfora il budget
             - ALLORA scarto il regalo
         - ALTRIMENTI lo aggiungo al carrello
-
-    - Vado sulla barra di ricerca e scrivo "penna stilografica"        
-
-        - SE non ha la consegna Prime O sfora il budget 
-            - ALLORA scarto il regalo
-        - ALTRIMENTI lo aggiungo al carrello
-
-    - Vado sulla barra di ricerca e scrivo "libro"
-
-        - SE non ha la consegna Prime O sfora il budget 
-            - ALLORA scarto il regalo
-        - ALTRIMENTI lo aggiungo al carrello
-
+            -SE il carrello ha 1 elemento, vado su carrello.
+        ALTRIMENTI cerco l'oggetto successivo.
 - Vado sul carrello
 - Clicco il tasto "procedi all'ordine"
 - Seleziono l'indirizzo di consegna
-- Scelgo il metodo di pagamento 
-- Controllo il riepilogo ordine 
-- Confermo l'acquisto 
+- Scelgo il metodo di pagamento
+- Controllo il riepilogo ordine
+- Confermo l'acquisto
+
