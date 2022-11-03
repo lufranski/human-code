@@ -16,10 +16,9 @@ COMPRARE QUALCOSA SU AMAZON
         - ALTRIMENTI lo aggiungo al carrello
             -SE il carrello ha 1 elemento, vado su carrello.
         ALTRIMENTI cerco l'oggetto successivo.
-- Vado sul carrello
+- Sono nel carrello
 - Clicco il tasto "procedi all'ordine"
 - Seleziono l'indirizzo di consegna
 - Scelgo il metodo di pagamento
 - Controllo il riepilogo ordine
 - Confermo l'acquisto
-
